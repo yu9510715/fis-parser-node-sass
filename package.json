@@ -20,6 +20,6 @@
   "scripts": {
   },
   "dependencies": {
-    "node-sass": "4.5.1"
+    "node-sass": "3.2.4"
   }
 }
